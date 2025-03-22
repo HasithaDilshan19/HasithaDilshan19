@@ -24,4 +24,4 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasithaDilshan19&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=HasithaDilshan19&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasithadilshan19&show_icons=true&locale=en&layout=compact" alt="hasithadilshan19" /></p>
+
